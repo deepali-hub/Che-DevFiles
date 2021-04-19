@@ -16,6 +16,6 @@ spec:
       memoryLimit: "1500Mi"
       env:
        - name: ZOWE_CLI_HOME
-         value: /projects/
+         value: /projects/.zowe
   extensions:
     - https://github.com/deepali-hub/Che-DevFiles/releases/download/testche/explorer-for-endevor-latest.vsix
